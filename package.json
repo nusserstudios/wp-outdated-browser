@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/deblynprado/wp-outdated.git"
+    "url": "git@github.com:nusserstudios/wp-outdated-browser.git"
   },
   "author": "deblynprado",
   "license": "BSD-2-Clause",
