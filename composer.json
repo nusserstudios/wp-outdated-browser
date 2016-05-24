@@ -1,0 +1,21 @@
+{
+  "name": "nusserstudios/wp-outdated-browser",
+  "type": "git",
+  "license": "MIT",
+  "description": "Outdated Browser Plugin",
+  "homepage": "https://nusserstudios.io",
+  "authors": [
+    {
+      "name": "Jeremy Nusser",
+      "email": "jeremy@mearsinc.com",
+      "homepage": "https://github.com/MearsAdmin"
+    },
+  ],
+  "keywords": [
+    "wordpress"
+  ],
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
